@@ -1,0 +1,1 @@
+Account Number: 73, FullName: Anton, Address: Shevchenko 83, Lviv, Phone Number: 0468323477, Contract Number: 12, Contract Date: 12.05.2023, Has Discount: True, Type: Premium, Tariff Plan: Basic
